@@ -144,8 +144,8 @@ footer {
     }
 }
 
-/* Media Query for Tablet (between 400px and 600px) */
-@media screen and (min-width: 400px) and (max-width: 600px) {
+/* Media Query for Tablet (between 400px and 939px) */
+@media screen and (min-width: 400px) and (max-width: 939px) {
     /* Change background color to blue for tablet */
     body {
         background-color: #cce5ff; /* Light blue for tablet view */
